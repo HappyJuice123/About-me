@@ -1,2 +1,3 @@
 # About-me
-Description of myself
+
+I am looking to familiarise myself with Github!
